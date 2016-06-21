@@ -1,0 +1,28 @@
+<div class="notebook">
+
+<div class="nb-cell markdown">
+# Some Markdown
+
+blah blah blah
+
+exciting `code`
+
+
+</div>
+
+<div class="nb-cell program">
+parent(don, randy).
+parent(rosie, randy).
+female(rosie).
+
+mother(X, Y) :-
+    parent(X, Y),
+    female(X).
+
+</div>
+
+<div class="nb-cell query" name="randysmom">
+mother(X, randy).
+</div>
+
+</div>
