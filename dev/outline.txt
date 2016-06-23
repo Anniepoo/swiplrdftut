@@ -1,0 +1,37 @@
+1. Provide a title block, with TOC and other material, and a link to the parent directory. 
+
+2. Describe who should work this tutorial, "this tutorial is for advanced SWI-Prolog programmers who understand <topic> and want to do <task>.", 
+what other material they need to understand first, as well as what tools they need (eg. a version of SWI-Prolog beyond xx, or the example 
+programs that accompany the material). 
+
+3. Provide an estimate of the time taken for the tutorial. 
+
+4. Say how to use the tutorial. EG if your tutorial depends on running examples, say something like 'read each section, then open each example 
+and run it, and make sure you understand the code' or whatever's relevant. 
+In some of my tutorials I refer to the example programs frequently, but do NOT have them listed in the source text. 
+This pretty much forces the student to have the program open. 
+
+5. Motivate the material. Explain why it's useful or important. 
+
+6. Review any background needed 
+
+7. The tutorial body - 
+This should be *task* oriented. This is how to deal with sessions, this is how to do authentication. 
+
+Each task should provide exercises at the end that show competency with that task. 
+
+Each section of the tutorial should teach one concept, usually how to do one task. Often, explaining why the system is designed as it 
+
+If your tutorial grows large, consider dividing it. The web framework tutorial is a bit past this limit at the moment. 
+
+If you have major sections, consider a larger 'project' exercise at the end, and/or a review. 
+Remember, your job is NOT just to present the material, but to get the student to understand it. You need to operate 'closed loop'. 
+
+Every technical term and concept that's used should be introduced beforehand. You will have a lattice of 'prerequisite' dependencies. 
+
+8. Write a conclusion - remind students of the main points. 
+
+9. Thank the student for taking the tutorial. Ask the student to send feedback if something is unclear in the tutorial. Include both my email 
+and your own. 
+
+10. Thank those who helped produce the tutorial. 
